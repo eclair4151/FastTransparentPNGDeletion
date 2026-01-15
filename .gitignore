@@ -1,0 +1,11 @@
+# Ignore everything in target
+/target/*
+
+# But keep the release binary
+!/target/release/
+/target/release/*
+!/target/release/del_empty_pngs_fast
+
+# macOS files
+.DS_Store
+**/.DS_Store
