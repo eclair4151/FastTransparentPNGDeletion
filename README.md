@@ -11,7 +11,7 @@ A fast, multi-threaded tool to recursively delete fully transparent PNG files (c
 
 ## Installation
 
-### Option 1: Use Pre-compiled Binary (M1/M2/M3 Macs only)
+### Option 1: Use Pre-compiled Binary (M Series Macs only)
 
 Download the `del_empty_pngs_fast` binary from this repository and make it executable:
 ```bash
