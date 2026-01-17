@@ -4,7 +4,7 @@
 # But keep the release binary
 !/target/release/
 /target/release/*
-!/target/release/del_empty_pngs_fast
+!/target/release/del_empty_pngs
 
 # macOS files
 .DS_Store
