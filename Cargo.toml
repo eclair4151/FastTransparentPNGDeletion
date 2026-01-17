@@ -1,5 +1,5 @@
 [package]
-name = "del_empty_pngs_fast"
+name = "del_empty_pngs"
 version = "0.1.0"
 edition = "2021"
 
